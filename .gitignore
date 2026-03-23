@@ -1,0 +1,23 @@
+# Maven
+target/
+
+# Logs
+*.log
+
+# Compilados Java
+*.class
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Arquivos de ambiente
+.env
+
+# Node (se tiver frontend)
+node_modules/
+
+# Build de front
+dist/
+build/
